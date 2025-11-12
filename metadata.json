@@ -1,0 +1,5 @@
+{
+  "name": "Maps Explorer",
+  "description": "Ask Gemini to find any place on Earth and explore it instantly on Google Maps.",
+  "requestFramePermissions": []
+}
