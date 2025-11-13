@@ -81,7 +81,7 @@ async function generateContent(prompt: string) {
 }
 
 function renderMap(location: string) {
-  const API_KEY = 'AIzaSyC4WK3O4Qkdo-_fXGIK-FzMt7cVwHZJfvI';
+  const API_KEY = '';
   frame.src = `https://www.google.com/maps/embed/v1/place?key=${API_KEY}&q=${location}`;
 }
 
